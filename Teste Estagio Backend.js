@@ -1,6 +1,4 @@
 
-<script> 
-
 // o user insere total de linhas a serem impressas
 var totalL = prompt("Insira a quantidade de linhas");
 
@@ -21,6 +19,3 @@ for(var linha = 0; linha < (totalL); linha++) {
 
 	document.write("<br>");
 } 
-
-
-</script>
